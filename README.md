@@ -1,4 +1,7 @@
 Here's a summary of the code:
+
+
+
 The provided code is a Python script that simulates a restaurant billing system called "La Fountain: The Food Fair". It starts with a welcome message from the manager and prompts the customer to enter their name, phone number, and email address. If the provided information is valid, it gets appended to a CSV file named "Name.csv" along with the current timestamp.
 
 The script then displays a menu with various food and beverage items, each with an index number and price. The customer is prompted to enter the index number of the desired item(s). The selected items are added to a list along with their quantities and prices.
